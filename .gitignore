@@ -1,0 +1,15 @@
+# Ejecutables
+*.exe
+
+# Archivos objeto
+*.o
+
+# Temporales
+*.tmp 
+
+# Carpeta build 
+build/
+
+# Archivos del sistema 
+.DS_Store
+Thumbs.db
