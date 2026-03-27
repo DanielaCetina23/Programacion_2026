@@ -7,8 +7,8 @@ En otras palabras, permite que un puntero o referencia a una clase base pueda ej
 clase derivada a la que apunte. 
 
 ## Tipos de polimorfismo
-- # Polimorfismo en tiempo de compilación
+- ## Polimorfismo en tiempo de compilación
 Sobrecarga de funciones.
 
-- # Polimorfismo en tiempo de ejecución
+- ## Polimorfismo en tiempo de ejecución
 Uso de herencia y funciones virtuales. 
